@@ -6,4 +6,4 @@ def provide_mortgage?(salary, deposit, property_value)
       salary * max_multiplier >= loan_amount
 end
 
-puts provide_mortgage?(80000, 100000, 500000)
+puts provide_mortgage?(35000, 60000, 300000)
